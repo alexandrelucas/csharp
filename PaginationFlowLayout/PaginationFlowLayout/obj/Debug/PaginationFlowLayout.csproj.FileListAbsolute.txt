@@ -1,0 +1,10 @@
+D:\Documents\Visual Studio 2017\Projects\PaginationFlowLayout\PaginationFlowLayout\bin\Debug\PaginationFlowLayout.exe.config
+D:\Documents\Visual Studio 2017\Projects\PaginationFlowLayout\PaginationFlowLayout\bin\Debug\PaginationFlowLayout.exe
+D:\Documents\Visual Studio 2017\Projects\PaginationFlowLayout\PaginationFlowLayout\bin\Debug\PaginationFlowLayout.pdb
+D:\Documents\Visual Studio 2017\Projects\PaginationFlowLayout\PaginationFlowLayout\obj\Debug\PaginationFlowLayout.csprojAssemblyReference.cache
+D:\Documents\Visual Studio 2017\Projects\PaginationFlowLayout\PaginationFlowLayout\obj\Debug\PaginationFlowLayout.FrmMain.resources
+D:\Documents\Visual Studio 2017\Projects\PaginationFlowLayout\PaginationFlowLayout\obj\Debug\PaginationFlowLayout.Properties.Resources.resources
+D:\Documents\Visual Studio 2017\Projects\PaginationFlowLayout\PaginationFlowLayout\obj\Debug\PaginationFlowLayout.csproj.GenerateResource.cache
+D:\Documents\Visual Studio 2017\Projects\PaginationFlowLayout\PaginationFlowLayout\obj\Debug\PaginationFlowLayout.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2017\Projects\PaginationFlowLayout\PaginationFlowLayout\obj\Debug\PaginationFlowLayout.exe
+D:\Documents\Visual Studio 2017\Projects\PaginationFlowLayout\PaginationFlowLayout\obj\Debug\PaginationFlowLayout.pdb
