@@ -1,0 +1,15 @@
+C:\Documents and Settings\Usuario\Meus documentos\Visual Studio 2008\Projects\C#\Owl Library Module\Owl Library Module\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Usuario\Meus documentos\Visual Studio 2008\Projects\C#\Owl Library Module\Owl Library Module\bin\Release\owl-lib.dll
+C:\Documents and Settings\Usuario\Meus documentos\Visual Studio 2008\Projects\C#\Owl Library Module\Owl Library Module\bin\Release\owl-lib.pdb
+C:\Documents and Settings\Usuario\Meus documentos\Visual Studio 2008\Projects\C#\Owl Library Module\Owl Library Module\obj\Release\owl-lib.dll
+C:\Documents and Settings\Usuario\Meus documentos\Visual Studio 2008\Projects\C#\Owl Library Module\Owl Library Module\obj\Release\owl-lib.pdb
+D:\Programacao\Visual Studio\C#\Owl Library Module\Owl Library Module\bin\Release\owl-lib.dll
+D:\Programacao\Visual Studio\C#\Owl Library Module\Owl Library Module\bin\Release\owl-lib.pdb
+D:\Programacao\Visual Studio\C#\Owl Library Module\Owl Library Module\obj\Release\owl-lib.dll
+D:\Programacao\Visual Studio\C#\Owl Library Module\Owl Library Module\obj\Release\owl-lib.pdb
+D:\Programacao\Visual Studio\C#\Owl Library Module\Owl Library Module\obj\Release\ResolveAssemblyReference.cache
+D:\Programacao\Visual Studio 2010\C#\Owl Library Module\Owl Library Module\bin\Release\owl-lib.dll
+D:\Programacao\Visual Studio 2010\C#\Owl Library Module\Owl Library Module\bin\Release\owl-lib.pdb
+D:\Programacao\Visual Studio 2010\C#\Owl Library Module\Owl Library Module\obj\Release\ResolveAssemblyReference.cache
+D:\Programacao\Visual Studio 2010\C#\Owl Library Module\Owl Library Module\obj\Release\owl-lib.dll
+D:\Programacao\Visual Studio 2010\C#\Owl Library Module\Owl Library Module\obj\Release\owl-lib.pdb
